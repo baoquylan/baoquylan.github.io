@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bcb394cb.css",
-    "main.js": "/static/js/main.3c09de40.js",
+    "main.js": "/static/js/main.cd91f0f9.js",
     "static/js/787.037d72d9.chunk.js": "/static/js/787.037d72d9.chunk.js",
     "static/media/test1.glb": "/static/media/test1.7c7407fec398ce456df6.glb",
     "static/media/porsche-transformed.glb": "/static/media/porsche-transformed.dfa12af602bbe12c9047.glb",
@@ -25,11 +25,11 @@
     "static/media/Three2-js_Logo.png": "/static/media/Three2-js_Logo.4ac7373a5741d6552efc.png",
     "index.html": "/index.html",
     "main.bcb394cb.css.map": "/static/css/main.bcb394cb.css.map",
-    "main.3c09de40.js.map": "/static/js/main.3c09de40.js.map",
+    "main.cd91f0f9.js.map": "/static/js/main.cd91f0f9.js.map",
     "787.037d72d9.chunk.js.map": "/static/js/787.037d72d9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bcb394cb.css",
-    "static/js/main.3c09de40.js"
+    "static/js/main.cd91f0f9.js"
   ]
 }
