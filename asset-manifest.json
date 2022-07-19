@@ -1,21 +1,35 @@
 {
   "files": {
-    "main.css": "/static/css/main.d9deadb3.css",
-    "main.js": "/static/js/main.84008e43.js",
+    "main.css": "/static/css/main.bcb394cb.css",
+    "main.js": "/static/js/main.3c09de40.js",
     "static/js/787.037d72d9.chunk.js": "/static/js/787.037d72d9.chunk.js",
     "static/media/test1.glb": "/static/media/test1.7c7407fec398ce456df6.glb",
     "static/media/porsche-transformed.glb": "/static/media/porsche-transformed.dfa12af602bbe12c9047.glb",
     "static/media/contil_logo1.png": "/static/media/contil_logo1.51605e02ab723827ec95.png",
+    "static/media/Postgres_Logo.png": "/static/media/Postgres_Logo.9eb4aefce3705a92117b.png",
+    "static/media/Revit_Logo.png": "/static/media/Revit_Logo.6ff00a9ff94c8ebc967e.png",
+    "static/media/Tekla_Logo.png": "/static/media/Tekla_Logo.7be85f7f426e3e925215.png",
+    "static/media/NET_Core_Logo.png": "/static/media/NET_Core_Logo.f1499a5a73eeda49f2a3.png",
+    "static/media/AF_Logo.png": "/static/media/AF_Logo.0f98c6b584c5f1361061.png",
+    "static/media/Naviswork_Logo.png": "/static/media/Naviswork_Logo.8db382dd99fb341c7e72.png",
     "static/media/wh.png": "/static/media/wh.e3f0de6f4946dad8a483.png",
+    "static/media/Three-js_Logo.png": "/static/media/Three-js_Logo.e4e1dc624ac0dcf5f2cd.png",
+    "static/media/Trimble-Connect_Logo.png": "/static/media/Trimble-Connect_Logo.0cbfd8326f39ff783a2e.png",
+    "static/media/JS_Logo.png": "/static/media/JS_Logo.4639c895c33d52eebeff.png",
     "static/media/tbf.png": "/static/media/tbf.5092fbe74836ff4dca86.png",
     "static/media/agc.png": "/static/media/agc.bd3a041eb22a2eb0fbb3.png",
+    "static/media/HTML_Logo.png": "/static/media/HTML_Logo.dcd6f79476d4c2b1feaa.png",
+    "static/media/Tekla-Structure_Logo.png": "/static/media/Tekla-Structure_Logo.5791b6abe90213f3e033.png",
+    "static/media/Nodejs_Logo.png": "/static/media/Nodejs_Logo.b508473ad71a31ce2fae.png",
+    "static/media/CSS_Logo.png": "/static/media/CSS_Logo.bd750c0a36aafe04abc6.png",
+    "static/media/Three2-js_Logo.png": "/static/media/Three2-js_Logo.4ac7373a5741d6552efc.png",
     "index.html": "/index.html",
-    "main.d9deadb3.css.map": "/static/css/main.d9deadb3.css.map",
-    "main.84008e43.js.map": "/static/js/main.84008e43.js.map",
+    "main.bcb394cb.css.map": "/static/css/main.bcb394cb.css.map",
+    "main.3c09de40.js.map": "/static/js/main.3c09de40.js.map",
     "787.037d72d9.chunk.js.map": "/static/js/787.037d72d9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9deadb3.css",
-    "static/js/main.84008e43.js"
+    "static/css/main.bcb394cb.css",
+    "static/js/main.3c09de40.js"
   ]
 }
